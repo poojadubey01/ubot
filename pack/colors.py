@@ -1,0 +1,19 @@
+from colorama import init ,Fore ,Back ,Style 
+init (autoreset =True )
+IlIlllIllIlIIIllI =Fore .CYAN 
+IIIlllIllIIllIllI =Fore .GREEN 
+IIllIIllllIllIIll =Fore .WHITE 
+IllIlllIllIlIlIII =Fore .RED 
+IlIllIIIIIllllllI =Fore .BLUE 
+IllllIIlllIIIllll =Fore .YELLOW 
+IIlllIllIIlllIlIl =Fore .MAGENTA 
+IlIllIIIllIlIlIlI =Back .CYAN 
+IIllIlllIIIlIIlII =Back .GREEN 
+IlIIlIIIlIllIIlll =Back .WHITE 
+IlIlIIIIllIlIlllI =Back .RED 
+IlllIlIIIIlIIIllI =Back .BLUE 
+IIlIlIlIlllllIIII =Fore .YELLOW 
+IlllIIIlIIIIlllIl =Fore .MAGENTA 
+IIllIIllIlIlIllII =Style .DIM 
+IlIlIllIllllIIllI =Style .NORMAL 
+IlllllIIIllIllIII =Style .BRIGHT 
